@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\school\classes\year2-semester1\prog 2100-701 (c++)\myassignment\01-tictactoe\project1\project1\source.cpp(163): warning C4715: 'AI::PickARandomSpot': not all control paths return a value
+  Project1.vcxproj -> D:\School\Classes\Year2-Semester1\PROG 2100-701 (C++)\MyAssignment\01-TicTacToe\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\School\Classes\Year2-Semester1\PROG 2100-701 (C++)\MyAssignment\01-TicTacToe\Project1\Debug\Project1.pdb (Partial PDB)
